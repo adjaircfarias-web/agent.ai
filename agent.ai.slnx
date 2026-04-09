@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="agent.ai/agent.without.streaming.csproj" />
+  <Project Path="agent.with.streaming/agent.with.streaming.csproj" Id="c412a883-26ed-441d-b77f-2c60a03f217a" />
+</Solution>
