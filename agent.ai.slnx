@@ -2,4 +2,5 @@
   <Project Path="agent.with.streaming/agent.with.streaming.csproj" Id="c412a883-26ed-441d-b77f-2c60a03f217a" />
   <Project Path="agent.without.streaming/agent.without.streaming.csproj" />
   <Project Path="agent.with.rag/agent.with.rag.csproj" />
+  <Project Path="agent.with.tools/agent.with.tools.csproj" />
 </Solution>
